@@ -1,21 +1,24 @@
-🔐 Gerador de Senhas - Segurança e Praticidade
+ Gerador de Senhas - Segurança e Praticidade
+ 
 Este projeto foi desenvolvido com o objetivo de facilitar a criação de senhas fortes e seguras de forma rápida e prática, ajudando no fortalecimento da segurança no dia a dia.
 
-🚀 Tecnologias Utilizadas
+ Tecnologias Utilizadas
+ 
 - Node.js
 
 - React.js (com JSX)
 
 - CSS puro para estilização
 
-🎯 Funcionalidades
-Geração de senhas seguras com caracteres aleatórios (letras, números e símbolos)
+ Funcionalidades
+ 
+- Geração de senhas seguras com caracteres aleatórios (letras, números e símbolos)
 
-Interface simples e objetiva
+- Interface simples e objetiva
 
-Totalmente responsivo: funciona bem em desktop, tablet e mobile
+- Totalmente responsivo: funciona bem em desktop, tablet e mobile
 
-Código modular e organizado
+- Código modular e organizado
 
 
 ![geradorsenhas](https://github.com/user-attachments/assets/851443d2-06b8-4684-9d77-5dd6d8317118)
