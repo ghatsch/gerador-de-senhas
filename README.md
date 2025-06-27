@@ -37,4 +37,3 @@ npm run dev
 💡 Objetivo do Projeto
 Em tempos em que a segurança da informação é cada vez mais essencial, ter senhas fortes se torna uma necessidade. Este projeto nasceu com o propósito de fornecer uma ferramenta simples e eficiente para geração de senhas, atendendo tanto usuários comuns quanto profissionais que precisam gerenciar múltiplas credenciais com segurança.
 
-Clone o repositório -> git clone https://github.com/ghatsch/gerador-de-senhas.git
